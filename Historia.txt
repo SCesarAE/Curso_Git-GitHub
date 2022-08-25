@@ -1,2 +1,4 @@
-Esto es mi historia del Curso Profecional de Git y GitHub
-SCesarAE
+Esto es mi historia del Curso Profecional de Git y GitHub de Platzi.
+Impartido por Freddy Vega
+
+By: SCesarAE
