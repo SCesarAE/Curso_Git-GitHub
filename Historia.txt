@@ -1,5 +1,7 @@
 Esto es mi historia del Curso Profecional de Git y GitHub de Platzi.
 Impartido por el CEO de Platzi Freddy Vega
 
+Buscando un cambio de vida
+
 By: SCesarAE
 Mail: ca.salgado@diroot.org
